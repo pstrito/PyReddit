@@ -1,0 +1,9 @@
+requests==2.24.0
+datetime==4.3
+numpy==1.19.5
+pytz==2020.1
+nltk==3.5
+# matplotlib==1.15.0
+matplotlib==3.4.2
+pandas==1.2.0
+wordcloud==1.8.1
